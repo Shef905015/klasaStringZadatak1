@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\klasaStringZadatak1\klasaStringZadatak1\bin\Debug\klasaStringZadatak1.exe.config
+C:\Users\ucenik\source\repos\klasaStringZadatak1\klasaStringZadatak1\bin\Debug\klasaStringZadatak1.exe
+C:\Users\ucenik\source\repos\klasaStringZadatak1\klasaStringZadatak1\bin\Debug\klasaStringZadatak1.pdb
+C:\Users\ucenik\source\repos\klasaStringZadatak1\klasaStringZadatak1\obj\Debug\klasaStringZadatak1.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\klasaStringZadatak1\klasaStringZadatak1\obj\Debug\klasaStringZadatak1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\klasaStringZadatak1\klasaStringZadatak1\obj\Debug\klasaStringZadatak1.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\klasaStringZadatak1\klasaStringZadatak1\obj\Debug\klasaStringZadatak1.exe
+C:\Users\ucenik\source\repos\klasaStringZadatak1\klasaStringZadatak1\obj\Debug\klasaStringZadatak1.pdb
